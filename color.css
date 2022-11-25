@@ -1,0 +1,19 @@
+h6{
+    color: hsla(350, 80%, 90%, 1.0); font-size: larger; font-family: monospace;
+    background-color: brown; 
+    }
+    h5{
+        background-color: black;
+    }
+h4{
+    background-color: whitesmoke;
+}
+h3{
+    background-color: darkcyan;
+}
+h2{
+    background-color: darkslategrey;
+}
+h1{
+    background-color: gold;
+}
